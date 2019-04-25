@@ -1,0 +1,22 @@
+
+[{
+    "name": "alice",
+    "subject": "maths",
+    "marks": "79"
+},{
+    "name": "bob",
+    "subject": "maths",
+    "marks": "36"
+},{
+    "name": "clare",
+    "subject": "maths",
+    "marks": "87"
+},{
+    "name": "dean",
+    "subject": "maths",
+    "marks": "50"
+},{
+    "name": "elon",
+    "subject": "maths",
+    "marks": "34"
+}]
